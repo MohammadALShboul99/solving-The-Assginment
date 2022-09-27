@@ -143,7 +143,7 @@ class _Log_inState extends State<Log_in> {
                   })));
                 },
                 child: Text(
-                  "نسيت كلمةالسر",
+                  "Forgot your password",
                   style: TextStyle(decoration: TextDecoration.underline),
                 ),
               ),
